@@ -1,0 +1,13 @@
+# Ignore virtual environment folder
+venv/
+.venv/
+env/
+
+
+__pycache__/
+*.pyc
+.mypy_cache/
+
+chrome_langchain_db/
+
+
